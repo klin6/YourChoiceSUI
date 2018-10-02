@@ -4,11 +4,11 @@
   padding-left: 250px;
   padding-right: 250px;
 }
-.ui.one.label {
+.ui.one.item {
   background-color: white;
   color: black;
 }
-.ui.two.label {
+.ui.two.item {
   background-color: #b8b8ba;
   color: black;
 }
@@ -35,6 +35,7 @@
   height: 200px;
 }
 .ui.centered.two.image {
+
   width: 940px;
   height: 500px;
 }
