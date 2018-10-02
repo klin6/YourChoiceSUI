@@ -15,3 +15,17 @@
   background-color: #0c97bc;
   color: white;
 }
+.ui.centered.image {
+  width: 194px;
+  height: 90px;
+  padding-top: 15px;
+}
+.ui.borderless.middlemenu.menu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+}
+.ui.text {
+  color: #2ba2c0;
+  margin: 25px;
+}
