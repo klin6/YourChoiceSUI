@@ -29,3 +29,22 @@
   color: #2ba2c0;
   margin: 25px;
 }
+.ui.centered.one.image {
+  width: 940px;
+  height: 200px;
+}
+.ui.centered.two.image {
+  width: 940px;
+  height: 500px;
+}
+.ui.blue.label {
+  background-color: #2ba2c0;
+  font-color: white;
+}
+.ui.borderless.icon.menu {
+  box-shadow: none;
+  border: none;
+  padding-left: 250px;
+  padding-right: 250px;
+  /* border-top: 10px solid #b8b8ba;*/
+}
