@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1461ee75-4c79-424e-902a-54784ece179d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,9 +17,9 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -35,27 +36,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="678" />
-          <entry key="html" value="1186" />
+          <entry key="css" value="1075" />
+          <entry key="html" value="1454" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="678" />
-          <entry key="HTML" value="1186" />
+          <entry key="CSS" value="1075" />
+          <entry key="HTML" value="1454" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.7936306">
+    <splitter split-orientation="vertical" split-proportion="0.66496813">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="407">
-                  <caret line="173" column="20" selection-start-line="173" selection-start-column="20" selection-end-line="173" selection-end-column="20" />
+                <state relative-caret-position="116">
+                  <caret line="119" column="6" lean-forward="true" selection-start-line="119" selection-start-column="6" selection-end-line="119" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -72,8 +73,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+                <state relative-caret-position="197">
+                  <caret line="73" column="23" lean-forward="true" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
@@ -96,8 +97,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -145,6 +146,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,7 +158,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -206,16 +207,18 @@
       <workItem from="1538462935950" duration="131000" />
       <workItem from="1538463244077" duration="2714000" />
       <workItem from="1538471294082" duration="338000" />
+      <workItem from="1538472645115" duration="2878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8851000" />
+    <option name="totallyTimeSpent" value="11729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="23" width="1320" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26525822" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26917058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -256,8 +259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="173" column="20" selection-start-line="173" selection-start-column="20" selection-end-line="173" selection-end-column="20" />
+        <state relative-caret-position="116">
+          <caret line="119" column="6" lean-forward="true" selection-start-line="119" selection-start-column="6" selection-end-line="119" selection-end-column="6" />
         </state>
       </provider>
     </entry>
