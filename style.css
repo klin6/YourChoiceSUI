@@ -1,0 +1,17 @@
+.ui.borderless.topmenu.menu {
+  background-color: #dbdbdb;
+  box-shadow: none;
+  border: none;
+}
+.ui.one.label {
+  background-color: white;
+  color: black;
+}
+.ui.two.label {
+  background-color: #b8b8ba;
+  color: black;
+}
+.ui.dropdown.one.item {
+  background-color: #0c97bc;
+  color: white;
+}
