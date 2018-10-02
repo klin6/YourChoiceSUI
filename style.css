@@ -44,31 +44,16 @@
 }
 .ui.borderless.icon.menu {
   box-shadow: none;
-  border: none;
-  padding-left: 250px;
-  padding-right: 250px;
-  /* border-top: 10px solid #b8b8ba;*/
-}
-
-.ui.centered.lineone.menu {
-  border-top: none;
+  border-top: 4px solid #f2f2f2;
   border-bottom: 4px solid #f2f2f2;
   border-left: none;
   border-right: none;
-  box-shadow: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
   margin-left: 250px;
   margin-right: 250px;
 }
-.ui.centered.linetwo.menu {
-  border-top: 4px solid #f2f2f2;
-  border-bottom: none;
-  border-left: none;
-  border-right: none;
-  box-shadow: none;
-  margin-left: 250px;
-  margin-right: 250px;
-  height: 15px;
-}
+
 .footer-background {
   padding-left: 250px;
   padding-right: 250px;
